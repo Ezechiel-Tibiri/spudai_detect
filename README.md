@@ -1,0 +1,1 @@
+# spudai_detect
